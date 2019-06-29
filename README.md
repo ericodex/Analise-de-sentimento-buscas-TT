@@ -6,10 +6,10 @@ O código classifica a lista decrescente com critério postitivo. E salva como l
 
 Comentários em português.
 
-#Intenções de melhorias.
+# Intenções de melhorias.
 
-Salvar informações no mongo DB.
+1 - Salvar retorno do webscraping no mongo DB.
 
-Isso é parte do curso, Data-lit School of IA
+Isso é parte do curso, Data-lit do School of AI
 
 https://www.theschool.ai/courses/data-lit
