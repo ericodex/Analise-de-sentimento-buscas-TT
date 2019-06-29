@@ -1,0 +1,2 @@
+Inicio de extração de sentimentos do twitter2019/06/28 19:44:07
+-- Todos os erros são responsabilidades de @ericódigos
