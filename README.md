@@ -1,2 +1,15 @@
-# An-lise-de-sentimento-buscas-TT
-Repositório com exemplo prático simples, comentado em português. De um sistema de raspagem de dados com python e API do twitter, pandas para tratamento de dados e vaderSentiment para análise de sentimentos do texto. 
+## Análise de sentimento de twittes
+
+O sistema utiliza o python3 e a API tweepy para extrair um conjunto de twitter e analisar a intensidade emocional do texto em positiva, neutra ou negativa.
+
+O código classifica a lista decrescente com critério postitivo. E salva como log em txt. 
+
+Comentários em português.
+
+#Intenções de melhorias.
+
+Salvar informações no mongo DB.
+
+Isso é parte do curso, Data-lit School of IA
+
+https://www.theschool.ai/courses/data-lit
