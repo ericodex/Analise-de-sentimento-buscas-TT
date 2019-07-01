@@ -19,10 +19,9 @@ linguagem =  'pt' # De acordo com o ISO 639-1 code
 query_search_string = 'eric'
 
 # Variáves de identificação da API do Twitter
-consumer_key = '3QwXMOABOkPsr2EFb6vVf0ntv'
-consumer_secret = '8OqhQAYs2AKR5wTXC78Xbl30l0J7V2IMYqJUTi4VVeSv2yglI0'
-access_token = '20087738-bldoRF9MntpwHA7Ibd7JjZL51pfX7upVDx0KutyBy'
-access_token_secret = 'wAU7ufkJ3MOKdQUUwoJoEYsJe2JXGIbzHxirP6PWFYRA8'
+consumer_key = '3QwXMb6vVf0ntv'
+consumer_secret = '8OqhQAYs2AKR5wTXMYqJUTi4VVeSv2yglI0'
+access_token = '20087738-bldoRF9Mntpwe2JXGIbzHxirP6PWFYRA8'
 
 def tempo_log():
     ''' Retorna tempo para informações de log'''
